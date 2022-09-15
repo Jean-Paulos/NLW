@@ -1,10 +1,11 @@
 # NLW eSports - Rocketseat
 ## Mission: Explorer
-
+![preview](.github/preview.png)
 ### Sobre o projeto:
 
- o Game hub, um site centralizador de links, no estilo Linktree, feito especialmente para gamers.
+Projeto contruido do evento Next Level Week da Rocketseat
  
  ### Tecnologias usadas
  - HTML
  - CSS
+ - Git e Github
